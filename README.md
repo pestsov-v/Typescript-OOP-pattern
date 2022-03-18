@@ -2,11 +2,26 @@
 
 Здесь описаны в общей сумме 17 паттернов: порождающие, структурные и поведенческие.
 
-Порождающие паттерны:
-• Singleton (Одиночка)
-• Prototype (Прототип)
-• Builder (Строитель)
-• Factory (Фабрика)
+1. Порождающие паттерны:
+1.1. Singleton (Одиночка)
+1.2. Prototype (Прототип)
+1.3. Builder (Строитель)
+1.4. Factory (Фабрика)
+2. Структурные паттерны:
+2.1. Bridge
+2.2. Facade
+2.3. Adapter
+2.4. Proxy
+2.5. Composite
+3. Поведенческие паттерны:
+3.1. Chain of Command
+3.2. Mediator
+3.3. Command
+3.4. State
+3.5. Strategy
+3.6. Iterator
+3.7. Template
+3.8. Observer
 
 ## Порождающие паттерны
 
