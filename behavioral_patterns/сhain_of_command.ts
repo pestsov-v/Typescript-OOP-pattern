@@ -1,5 +1,3 @@
-
-
 interface IMiddleware {
     next(mid: IMiddleware): IMiddleware;
     handle(request: any): any;
